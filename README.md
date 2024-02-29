@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+### I mastered these technologies
+
+- i3wm
+
+### I am intermediate in these technologies
+
+- C#
+- docker
+- docker-compose
+- ansible
+
+### I am novice in these technologies
+
+- rsyslog
+- nginx
+- k8s
+
 <!--
 **jaywor1/jaywor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
