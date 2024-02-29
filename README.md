@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I mastered these technologies
+### I have mastered these technologies
 
 - i3wm
 
