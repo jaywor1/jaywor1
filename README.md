@@ -10,6 +10,9 @@
 - docker
 - docker-compose
 - ansible
+- grafana
+- prometheus
+- gitlab CI/CD
 
 ### I am novice in these technologies
 
