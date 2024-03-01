@@ -4,15 +4,20 @@
 
 - i3wm
 
-### I am intermediate in these technologies
+### I am upper intermediate in these technologies
 
 - C#
+
+### I am intermediate in these technologies
+
 - docker
 - docker-compose
 - ansible
 - grafana
 - prometheus
 - gitlab CI/CD
+- bash scripting
+- python
 
 ### I am novice in these technologies
 
