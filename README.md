@@ -18,10 +18,11 @@
 - gitlab CI/CD
 - bash scripting
 - python
+- rsyslog
+
 
 ### I am novice in these technologies
 
-- rsyslog
 - nginx
 - k8s
 
