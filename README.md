@@ -6,7 +6,7 @@
 
 ### I am upper intermediate in these technologies
 
-- C#
+- gitlab CI/CD
 
 ### I am intermediate in these technologies
 
@@ -15,10 +15,11 @@
 - ansible
 - grafana
 - prometheus
-- gitlab CI/CD
 - bash scripting
 - python
 - rsyslog
+- C#
+
 
 
 ### I am novice in these technologies
